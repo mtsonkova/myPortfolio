@@ -41,6 +41,7 @@ section, h2, article {
 
 nav a {
     text-decoration: solid;
+    padding-left:5px;
 }
 
 ul li{
