@@ -380,7 +380,27 @@ ul.about__list {
 
 .about__list-item i {
   font-size: 1.25rem;
-  color: var(--first-color);
+  color: var(--first-color);  
+}
+
+.courses__ul {
+  height: 200px;
+  overflow-y: auto;
+}
+div.course-card {
+  display:flex;
+  flex-direction:row;
+  justify-content: flex-start;
+}
+
+div.text__container{
+  display: flex;
+  align-items: center;
+  padding-left: 1rem;  
+}
+
+li a {
+  margin-bottom:10px;
 }
 
 /*=============== SERVICES ===============*/
