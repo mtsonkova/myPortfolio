@@ -402,7 +402,15 @@ li a {
   margin-bottom:10px;
 }
 
-/*=============== SERVICES ===============*/
+.udemy-certificate {
+  height:auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+  
+  /*=============== SERVICES ===============*/
 .services {
   position: relative;
 }
