@@ -402,6 +402,16 @@ li a {
   margin-bottom:10px;
 }
 
+li.work{
+  margin-bottom: 10px;
+}
+li.work h3{
+text-align: left;
+}
+li.work p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
 .udemy-certificate {
   height:auto;
   display: flex;
@@ -409,7 +419,7 @@ li a {
   align-items: center;
 }
 
-  
+
   /*=============== SERVICES ===============*/
 .services {
   position: relative;
